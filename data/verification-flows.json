@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "name": "desktop navigation, Escape, theme",
+      "status": "pass"
+    },
+    {
+      "name": "local search and no-results state",
+      "status": "pass"
+    },
+    {
+      "name": "contact validation, demo confirmation and reset",
+      "status": "pass"
+    },
+    {
+      "name": "application and questions dialogs",
+      "status": "pass"
+    },
+    {
+      "name": "case archive filtering and pagination",
+      "status": "pass"
+    },
+    {
+      "name": "partner and country filters",
+      "status": "pass"
+    },
+    {
+      "name": "FAQ opening and closing",
+      "status": "pass"
+    },
+    {
+      "name": "local cookie settings retain original category controls",
+      "status": "pass"
+    },
+    {
+      "name": "mobile navigation, language and application",
+      "status": "pass"
+    },
+    {
+      "name": "no network mutations, missing local resources or runtime errors",
+      "status": "pass",
+      "outbound": [],
+      "errors": [],
+      "missingLocal": []
+    }
+  ],
+  "screenshots": ".polymai/flows/"
+}

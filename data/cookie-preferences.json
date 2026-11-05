@@ -1,0 +1,106 @@
+{
+  "en": {
+    "cookie_banner_accept_choices_text": "Save choices",
+    "cookie_banner_accept_none_text": "No cookies",
+    "cookie_banner_accept_text": "Accept all",
+    "cookie_banner_manage_text": "Manage settings",
+    "cookie_banner_subtitle": "Customize your data settings",
+    "cookie_banner_text": "We use cookies to make your experience smooth and secure. Some cookies are used to make functionality work or to improve it, while others are used to tailor your experience.",
+    "cookie_banner_title": "Welcome to Consid",
+    "cookie_categories": [
+      {
+        "id": "statistics",
+        "title": "Statistics Cookies",
+        "text": "Used to collect anonymous information about how you use the website. See the full list of cookies in our cookie policy."
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing Cookies",
+        "text": "Used to collect anonymous information about how you use the website and show you ads and offerings we think you might like, based on your behaviour. See the full list of cookies in our cookie policy."
+      }
+    ],
+    "link": {
+      "title": "Cookie policy",
+      "url": "https://www.consid.com/legal/cookie-policy/",
+      "target": ""
+    }
+  },
+  "sv": {
+    "cookie_banner_accept_choices_text": "Spara mina val",
+    "cookie_banner_accept_none_text": "Inga cookies",
+    "cookie_banner_accept_text": "Acceptera alla",
+    "cookie_banner_manage_text": "Hantera cookies",
+    "cookie_banner_subtitle": "Skräddarsy dina val",
+    "cookie_banner_text": "Vi använder cookies för att göra din upplevelse smidig och säker. En del cookies används för att webbplatsen ska fungera eller förbättras, andra för att skräddarsy din upplevelse.",
+    "cookie_banner_title": "Välkommen till Consid",
+    "cookie_categories": [
+      {
+        "id": "statistics",
+        "title": "Statistiska cookies",
+        "text": "Används för att samla anonym information om hur du använder denna webbplats. Se listan på exakta cookies i vår cookiepolicy."
+      },
+      {
+        "id": "marketing",
+        "title": "Marknadsföringscookies",
+        "text": "Används för att samla anonym information om hur du använder webbplatsen och visa dig annonser och erbjudanden som vi tror kan vara av intresse för dig, baserat på ditt beteende. Se listan på exakta cookies i vår cookiepolicy."
+      }
+    ],
+    "link": {
+      "title": "Cookiepolicy",
+      "url": "https://www.consid.com/sv/rattsligt/cookiepolicy/",
+      "target": ""
+    }
+  },
+  "no": {
+    "cookie_banner_accept_choices_text": "Lagre valg",
+    "cookie_banner_accept_none_text": "Ingen cookies",
+    "cookie_banner_accept_text": "Godta alle",
+    "cookie_banner_manage_text": "Administrer innstillinger",
+    "cookie_banner_subtitle": "Tilpass dine datainnstillinger",
+    "cookie_banner_text": "Vi bruker cookies for å gjøre opplevelsen din jevn og trygg. Noen cookies brukes for å aktivere funksjonalitet eller forbedre den, mens andre brukes for å tilpasse opplevelsen din.",
+    "cookie_banner_title": "Velkommen til Consid",
+    "cookie_categories": [
+      {
+        "id": "statistics",
+        "title": "Statistikkcookies",
+        "text": "Brukes til å samle anonym informasjon om hvordan du bruker nettsiden. Se den fulle listen over informasjonskapsler i vår cookie policy."
+      },
+      {
+        "id": "marketing",
+        "title": "Markedsføringscookies",
+        "text": "Brukes til å samle anonym informasjon om hvordan du bruker nettsiden og vise deg annonser og tilbud som vi tror kan være av interesse for deg, basert på din atferd. Se den fulle listen over informasjonskapsler i vår cookie policy."
+      }
+    ],
+    "link": {
+      "title": "Cookie policy",
+      "url": "https://www.consid.com/no/juridisk/cookie-policy/",
+      "target": ""
+    }
+  },
+  "da": {
+    "cookie_banner_accept_choices_text": "Gem valg",
+    "cookie_banner_accept_none_text": "Ingen cookies",
+    "cookie_banner_accept_text": "Accepter alt",
+    "cookie_banner_manage_text": "Flere indstillinger",
+    "cookie_banner_subtitle": "Tilpas dine dataindstillinger",
+    "cookie_banner_text": "Vi bruger cookies for at gøre brugeroplevelsen nem og sikker for dig. Cookies bruges blandt andet til at sikre at hjemmesiden fungerer optimalt, at lave forbedringer, eller for at tilpasse din oplevelse. ",
+    "cookie_banner_title": "Velkommen til Consid",
+    "cookie_categories": [
+      {
+        "id": "Statistik",
+        "title": "Statistik cookies",
+        "text": "Bruges til at indsamle anonym information om hvordan du bruger hjemmesiden. Se den fulde liste over cookies i vores cookiepolitik."
+      },
+      {
+        "id": "Marketing",
+        "title": "Marketing cookies",
+        "text": "Bruges til at indsamle anonym information om hvordan du bruger hjemmesiden, for at vise dig ads og tilbud der virker relevante for dig. Dette er baseret på din færden på hjemmesiden. Se den fulde liste over cookies i vores cookiepolitik."
+      }
+    ],
+    "link": {
+      "title": "Cookiepolitik",
+      "url": "https://www.consid.com/da/juridisk/cookie-policy/",
+      "target": ""
+    }
+  }
+}
